@@ -1,0 +1,13 @@
+[ 2018-01-13T10:10:38+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000520s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `tp_node` [ RunTime:0.000350s ]
+SQL: SELECT `id`,`name`,`title`,`pid` FROM `tp_node` ORDER BY sort  [ RunTime:0.000120s ]
+SQL: SHOW COLUMNS FROM `tp_role_user` [ RunTime:0.000282s ]
+SQL: SELECT `node_id` FROM tp_role_user r LEFT JOIN tp_access a on a.role_id=r.role_id WHERE ( `user_id` = '39' )  [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000353s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000137s ]
+

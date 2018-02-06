@@ -1,0 +1,151 @@
+[ 2017-12-23T09:27:45+08:00 ] 116.226.205.211 /index.php?s=/admin/type/index.html
+ERR: 1146:Table 'www_xjzxmryy_com_shop.tp_type' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_type`
+
+[ 2017-12-23T09:30:16+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000457s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000076s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000273s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 0 )  [ RunTime:0.000216s ]
+
+[ 2017-12-23T09:32:51+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000530s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000289s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 0 )  [ RunTime:0.000231s ]
+
+[ 2017-12-23T09:32:52+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000445s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000075s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000395s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000233s ]
+
+[ 2017-12-23T09:33:32+08:00 ] 116.226.205.211 /index.php?s=/admin/product/edit.html
+ERR: 1054:Unknown column 'type_id' in 'field list'
+ [ SQL语句 ] : UPDATE `tp_product` SET `id`='51',`cate_id`='7',`name`='dsdasdas',`type_id`='33',`yuan_price`='5.66',`xian_price`='99.30',`is_on`='1',`description`='<p>dasdas</p>',`update_time`=1513992812 WHERE ( `id` = 51 )
+
+[ 2017-12-23T09:36:51+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000649s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000101s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000409s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000098s ]
+
+[ 2017-12-23T09:37:18+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000460s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000102s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000279s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000093s ]
+
+[ 2017-12-23T09:46:20+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000481s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000076s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000274s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000097s ]
+
+[ 2017-12-23T09:46:30+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000462s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000103s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000280s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000084s ]
+
+[ 2017-12-23T09:49:06+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000434s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000087s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000272s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000104s ]
+
+[ 2017-12-23T09:49:13+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000456s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000314s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 0 )  [ RunTime:0.000102s ]
+
+[ 2017-12-23T09:49:17+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000513s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.001361s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000394s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000094s ]
+
+[ 2017-12-23T09:49:18+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000511s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000082s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000325s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000099s ]
+
+[ 2017-12-23T09:49:47+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000494s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000089s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000312s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000099s ]
+
+[ 2017-12-23T11:36:39+08:00 ] 116.226.205.211 /index.php?s=/admin/product/editProductStatus/id/51/status/1/is_del/0.html
+ERR: 非法操作:editproductstatus
+
+[ 2017-12-23T11:55:50+08:00 ] 116.226.205.211 /index.php?s=/admin/order/index.html
+ERR: 无法加载模块:Order
+
+[ 2017-12-23T11:55:54+08:00 ] 116.226.205.211 /index.php?s=/admin/order/index.html
+ERR: 无法加载模块:Order
+
+[ 2017-12-23T11:56:45+08:00 ] 116.226.205.211 /index.php?s=/admin/order/index.html
+ERR: 无法加载模块:Order
+
+[ 2017-12-23T11:59:20+08:00 ] 116.226.205.211 /index.php?s=/admin/order/index.html
+ERR: 无法加载模块:Order
+
+[ 2017-12-23T11:59:47+08:00 ] 116.226.205.211 /index.php?s=/admin/conf/index.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000614s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000091s ]
+
+[ 2017-12-23T16:18:43+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000461s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000133s ]
+SQL: SHOW COLUMNS FROM `tp_node` [ RunTime:0.000310s ]
+SQL: SELECT `id`,`name`,`title`,`pid` FROM `tp_node` ORDER BY sort  [ RunTime:0.000089s ]
+SQL: SHOW COLUMNS FROM `tp_role_user` [ RunTime:0.000265s ]
+SQL: SELECT `node_id` FROM tp_role_user r LEFT JOIN tp_access a on a.role_id=r.role_id WHERE ( `user_id` = '39' )  [ RunTime:0.000081s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000270s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000199s ]
+

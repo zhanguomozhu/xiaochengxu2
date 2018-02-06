@@ -1,0 +1,109 @@
+[ 2017-12-25T09:09:11+08:00 ] 116.226.205.211 /index.php?s=/admin/banner/add.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000431s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000076s ]
+SQL: SHOW COLUMNS FROM `tp_node` [ RunTime:0.000312s ]
+SQL: SELECT `id`,`name`,`title`,`pid` FROM `tp_node` ORDER BY sort  [ RunTime:0.000082s ]
+SQL: SHOW COLUMNS FROM `tp_role_user` [ RunTime:0.000301s ]
+SQL: SELECT `node_id` FROM tp_role_user r LEFT JOIN tp_access a on a.role_id=r.role_id WHERE ( `user_id` = '39' )  [ RunTime:0.000079s ]
+
+[ 2017-12-25T09:12:27+08:00 ] 116.226.205.211 /index.php?s=/admin/banner/add.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000524s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000089s ]
+SQL: SHOW COLUMNS FROM `tp_node` [ RunTime:0.000296s ]
+SQL: SELECT `id`,`name`,`title`,`pid` FROM `tp_node` ORDER BY sort  [ RunTime:0.000084s ]
+SQL: SHOW COLUMNS FROM `tp_role_user` [ RunTime:0.000264s ]
+SQL: SELECT `node_id` FROM tp_role_user r LEFT JOIN tp_access a on a.role_id=r.role_id WHERE ( `user_id` = '39' )  [ RunTime:0.000073s ]
+
+[ 2017-12-25T10:06:30+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000480s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000080s ]
+SQL: SHOW COLUMNS FROM `tp_node` [ RunTime:0.000330s ]
+SQL: SELECT `id`,`name`,`title`,`pid` FROM `tp_node` ORDER BY sort  [ RunTime:0.000110s ]
+SQL: SHOW COLUMNS FROM `tp_role_user` [ RunTime:0.000397s ]
+SQL: SELECT `node_id` FROM tp_role_user r LEFT JOIN tp_access a on a.role_id=r.role_id WHERE ( `user_id` = '39' )  [ RunTime:0.000109s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000293s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000078s ]
+
+[ 2017-12-25T10:17:00+08:00 ] 116.226.205.211 /index.php?s=/admin/banner/add.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000475s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000076s ]
+SQL: SHOW COLUMNS FROM `tp_node` [ RunTime:0.000294s ]
+SQL: SELECT `id`,`name`,`title`,`pid` FROM `tp_node` ORDER BY sort  [ RunTime:0.000094s ]
+SQL: SHOW COLUMNS FROM `tp_role_user` [ RunTime:0.000242s ]
+SQL: SELECT `node_id` FROM tp_role_user r LEFT JOIN tp_access a on a.role_id=r.role_id WHERE ( `user_id` = '39' )  [ RunTime:0.000082s ]
+
+[ 2017-12-25T10:17:15+08:00 ] 116.226.205.211 /index.php?s=/admin/banner/add.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000478s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `tp_node` [ RunTime:0.000300s ]
+SQL: SELECT `id`,`name`,`title`,`pid` FROM `tp_node` ORDER BY sort  [ RunTime:0.000094s ]
+SQL: SHOW COLUMNS FROM `tp_role_user` [ RunTime:0.000243s ]
+SQL: SELECT `node_id` FROM tp_role_user r LEFT JOIN tp_access a on a.role_id=r.role_id WHERE ( `user_id` = '39' )  [ RunTime:0.000098s ]
+
+[ 2017-12-25T11:26:00+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000536s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000106s ]
+SQL: SHOW COLUMNS FROM `tp_node` [ RunTime:0.000323s ]
+SQL: SELECT `id`,`name`,`title`,`pid` FROM `tp_node` ORDER BY sort  [ RunTime:0.000115s ]
+SQL: SHOW COLUMNS FROM `tp_role_user` [ RunTime:0.000307s ]
+SQL: SELECT `node_id` FROM tp_role_user r LEFT JOIN tp_access a on a.role_id=r.role_id WHERE ( `user_id` = '39' )  [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000316s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000101s ]
+
+[ 2017-12-25T11:29:35+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000481s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000073s ]
+SQL: SHOW COLUMNS FROM `tp_node` [ RunTime:0.000319s ]
+SQL: SELECT `id`,`name`,`title`,`pid` FROM `tp_node` ORDER BY sort  [ RunTime:0.000082s ]
+SQL: SHOW COLUMNS FROM `tp_role_user` [ RunTime:0.000260s ]
+SQL: SELECT `node_id` FROM tp_role_user r LEFT JOIN tp_access a on a.role_id=r.role_id WHERE ( `user_id` = '39' )  [ RunTime:0.000077s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000257s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000069s ]
+
+[ 2017-12-25T14:06:21+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000493s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000080s ]
+SQL: SHOW COLUMNS FROM `tp_node` [ RunTime:0.000307s ]
+SQL: SELECT `id`,`name`,`title`,`pid` FROM `tp_node` ORDER BY sort  [ RunTime:0.000095s ]
+SQL: SHOW COLUMNS FROM `tp_role_user` [ RunTime:0.000247s ]
+SQL: SELECT `node_id` FROM tp_role_user r LEFT JOIN tp_access a on a.role_id=r.role_id WHERE ( `user_id` = '39' )  [ RunTime:0.000074s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000288s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000069s ]
+
+[ 2017-12-25T14:06:43+08:00 ] 116.226.205.211 /index.php?s=/admin/product/ajaxGetAttr.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000530s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000094s ]
+SQL: SHOW COLUMNS FROM `tp_node` [ RunTime:0.000329s ]
+SQL: SELECT `id`,`name`,`title`,`pid` FROM `tp_node` ORDER BY sort  [ RunTime:0.000119s ]
+SQL: SHOW COLUMNS FROM `tp_role_user` [ RunTime:0.000265s ]
+SQL: SELECT `node_id` FROM tp_role_user r LEFT JOIN tp_access a on a.role_id=r.role_id WHERE ( `user_id` = '39' )  [ RunTime:0.000108s ]
+SQL: SHOW COLUMNS FROM `tp_attribute` [ RunTime:0.000289s ]
+SQL: SELECT * FROM `tp_attribute` WHERE ( `type_id` = 33 )  [ RunTime:0.000102s ]
+

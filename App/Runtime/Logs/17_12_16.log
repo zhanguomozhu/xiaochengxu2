@@ -1,0 +1,492 @@
+[ 2017-12-16T09:59:11+08:00 ] 116.226.205.211 /sp/?g=admin/login/index.html
+ERR: 无法加载模块:Index
+
+[ 2017-12-16T10:05:46+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=login&a=login
+ERR: 1146:Table 'www_xjzxmryy_com_shop.tp_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_user`
+
+[ 2017-12-16T10:10:48+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=product&a=delList
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Product/dellist.html]
+
+[ 2017-12-16T10:10:53+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=product&a=delList
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Product/dellist.html]
+
+[ 2017-12-16T10:11:36+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=product&a=delList
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Product/dellist.html]
+
+[ 2017-12-16T10:12:09+08:00 ] 116.226.205.211 /sp/index.php?m=cate&a=editCate&id=1
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:12:41+08:00 ] 116.226.205.211 /sp/index.php?m=cate&a=editCate&id=1
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:15:15+08:00 ] 116.226.205.211 /sp/index.php?m=cate&a=editCate&id=7
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:15:27+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=editCate&id=7
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:15:35+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=editCate
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:15:37+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=editCate&id=7
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:15:38+08:00 ] 116.226.205.211 /sp/index.php?m=cate&a=editCate&id=7
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:15:54+08:00 ] 116.226.205.211 /sp/index.php?m=cate&a=editCate&id=1
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:16:19+08:00 ] 116.226.205.211 /sp/index.php?m=cate&a=editCate&id=1
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:17:40+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=editCate&id=1
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:18:26+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=editCate&id=7
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:19:16+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=product&a=delList
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Product/dellist.html]
+
+[ 2017-12-16T10:19:53+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=editCate&id=1
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:19:58+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=edit_cate&id=1
+ERR: 非法操作:edit_cate
+
+[ 2017-12-16T10:20:06+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=editCate&id=1
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:21:09+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=edit_cate&id=1
+ERR: 无法加载模块:cate
+
+[ 2017-12-16T10:21:12+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=editCate&id=1
+ERR: 无法加载模块:cate
+
+[ 2017-12-16T10:21:14+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=product&a=index
+ERR: 无法加载模块:product
+
+[ 2017-12-16T10:21:17+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=banner&a=index
+ERR: 无法加载模块:banner
+
+[ 2017-12-16T10:21:19+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=index
+ERR: 无法加载模块:cate
+
+[ 2017-12-16T10:21:20+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=index
+ERR: 无法加载模块:cate
+
+[ 2017-12-16T10:21:20+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=index
+ERR: 无法加载模块:cate
+
+[ 2017-12-16T10:21:20+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=index
+ERR: 无法加载模块:cate
+
+[ 2017-12-16T10:21:20+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=index
+ERR: 无法加载模块:cate
+
+[ 2017-12-16T10:21:23+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=index
+ERR: 无法加载模块:cate
+
+[ 2017-12-16T10:21:24+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=index
+ERR: 无法加载模块:cate
+
+[ 2017-12-16T10:21:26+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=product&a=index
+ERR: 无法加载模块:product
+
+[ 2017-12-16T10:21:31+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=index
+ERR: 无法加载模块:cate
+
+[ 2017-12-16T10:22:01+08:00 ] 116.226.205.211 /sp/index.php?g=admin&m=cate&a=index
+ERR: 无法加载模块:cate
+
+[ 2017-12-16T10:22:21+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/cate/editCate/id/1.html
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:22:24+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/cate/editCate/id/7.html
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:22:29+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/cate/addCate.html
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/addcate.html]
+
+[ 2017-12-16T10:22:33+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/cate/addCate.html
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/addcate.html]
+
+[ 2017-12-16T10:23:48+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/conf/confList.html
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Conf/conflist.html]
+
+[ 2017-12-16T10:26:29+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/cate/editCate/id/1.html
+ERR: 模板不存在[./App/Modules/Admin/Tpl/Cate/editcate.html]
+
+[ 2017-12-16T10:29:20+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/cate/editCate/id/1.html
+ERR: 非法操作:editcate
+
+[ 2017-12-16T10:29:35+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/cate/addCate.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000417s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000086s ]
+ERR: 非法操作:addcate
+
+[ 2017-12-16T10:29:47+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/cate/addCate.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000450s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000087s ]
+ERR: 非法操作:addcate
+
+[ 2017-12-16T10:31:12+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/cate/add.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000442s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000074s ]
+
+[ 2017-12-16T10:35:12+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/banner/add.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000483s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000075s ]
+
+[ 2017-12-16T10:35:38+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/user/addUser.html
+ERR: 模板不存在[./App/Modules/Admin/Tpl/User/adduser.html]
+
+[ 2017-12-16T10:40:22+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/conf/confList.html
+ERR: 非法操作:conflist
+
+[ 2017-12-16T10:51:05+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/user/checkPs.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000609s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.001927s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.000349s ]
+SQL: SELECT `password` FROM `tp_user` WHERE ( `id` = 39 ) LIMIT 1   [ RunTime:0.000177s ]
+
+[ 2017-12-16T10:52:18+08:00 ] 116.226.205.211 /sp/index.php?s=/sp/index.php/s/%2Fadmin%2Fproduct%2Findex.html
+ERR: 无法加载模块:Sp
+
+[ 2017-12-16T10:53:23+08:00 ] 116.226.205.211 /sp/index.php?s=/sp/index.php/s/%2Fadmin%2Fproduct%2Findex.html
+ERR: 无法加载模块:Sp
+
+[ 2017-12-16T10:53:38+08:00 ] 116.226.205.211 /sp/index.php?s=/sp/index.php/s/%2Fadmin%2Fproduct%2Findex.html
+ERR: 无法加载模块:Sp
+
+[ 2017-12-16T10:53:40+08:00 ] 116.226.205.211 /sp/index.php?s=/sp/index.php/s/%2Fadmin%2Fproduct%2Findex.html
+ERR: 无法加载模块:Sp
+
+[ 2017-12-16T10:55:29+08:00 ] 116.226.205.211 /sp/index.php?s=/sp/index.php/s/%2Fadmin%2Fproduct%2Findex.html
+ERR: 无法加载模块:Sp
+
+[ 2017-12-16T10:59:09+08:00 ] 116.226.205.211 /sp/index.php?s=/sp/index.php/s/%2Fadmin%2Fproduct%2Findex.html.html
+ERR: 无法加载模块:Sp
+
+[ 2017-12-16T11:01:41+08:00 ] 116.226.205.211 /sp/index.php?s=/sp/index.php/s/%2Fadmin%2Fproduct%2Findex.html.html
+ERR: 无法加载模块:Sp
+
+[ 2017-12-16T11:01:47+08:00 ] 116.226.205.211 /sp/index.php?s=/sp/index.php/s/%2Fadmin%2Fproduct%2Findex.html.html
+ERR: 无法加载模块:Sp
+
+[ 2017-12-16T11:01:53+08:00 ] 116.226.205.211 /sp/index.php?s=/sp/index.php/s/%2Fadmin%2Fproduct%2Findex.html.html
+ERR: 无法加载模块:Sp
+
+[ 2017-12-16T11:02:21+08:00 ] 116.226.205.211 /sp/index.php?s=/sp/index.php/s/%2Fadmin%2Fproduct%2Findex.html.html
+ERR: 无法加载模块:Sp
+
+[ 2017-12-16T11:02:27+08:00 ] 116.226.205.211 /sp/index.php?s=/sp/index.php/s/%2Fadmin%2Fproduct%2Findex.html.html
+ERR: 无法加载模块:Sp
+
+[ 2017-12-16T11:02:44+08:00 ] 116.226.205.211 /sp/index.php?s=/product/history.back(-1);.html
+ERR: 非法操作:history.back(-1);
+
+[ 2017-12-16T11:03:01+08:00 ] 116.226.205.211 /sp/index.php?s=/product/history.back(-1);.html
+ERR: 非法操作:history.back(-1);
+
+[ 2017-12-16T11:14:14+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/user/checkPs.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000438s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000087s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.000289s ]
+SQL: SELECT `password` FROM `tp_user` WHERE ( `id` = 50 ) LIMIT 1   [ RunTime:0.000181s ]
+
+[ 2017-12-16T11:14:25+08:00 ] 116.226.205.211 /sp/index.php?s=/admin/user/checkPs.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000454s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000075s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.000271s ]
+SQL: SELECT `password` FROM `tp_user` WHERE ( `id` = 50 ) LIMIT 1   [ RunTime:0.000182s ]
+
+[ 2017-12-16T11:15:36+08:00 ] 116.226.205.211 /index.php?s=/admin/conf/index.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000424s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000079s ]
+
+[ 2017-12-16T11:16:09+08:00 ] 116.226.205.211 /index.php?s=/admin/order/index.html
+ERR: 无法加载模块:Order
+
+[ 2017-12-16T11:18:19+08:00 ] 116.226.205.211 /index.php?s=/admin/banner/add.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000425s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000083s ]
+
+[ 2017-12-16T11:18:32+08:00 ] 116.226.205.211 /index.php?s=/admin/banner/add.html
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000434s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000080s ]
+
+[ 2017-12-16T11:30:31+08:00 ] 116.226.205.211 /index.php?s=/admin/product/index.html?cate_id=&yuan_price=&xian_price=&num=&create_time=&is_on=&starttime=&endtime=&startprice=&endprice=&name=
+ERR: 非法操作:index.html?cate_id=
+
+[ 2017-12-16T11:30:46+08:00 ] 116.226.205.211 /index.php?s=/admin/product/index.html/cate_id=&yuan_price=&xian_price=&num=&create_time=&is_on=&starttime=&endtime=&startprice=&endprice=&name=
+ERR: 非法操作:index.html
+
+[ 2017-12-16T11:35:33+08:00 ] 116.226.205.211 /index.php?g=admin&m=cate&a=edit
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000436s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000075s ]
+
+[ 2017-12-16T11:35:40+08:00 ] 116.226.205.211 /index.php?g=admin&m=cate&a=edit
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000548s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000076s ]
+
+[ 2017-12-16T11:35:47+08:00 ] 116.226.205.211 /index.php?g=admin&m=cate&a=edit
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000425s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000085s ]
+
+[ 2017-12-16T11:58:10+08:00 ] 116.226.205.211 /index.php/admin/user/index.html
+ERR: 无法加载模块:Index.php
+
+[ 2017-12-16T11:58:13+08:00 ] 116.226.205.211 /index.php/admin/index/index.html
+ERR: 无法加载模块:Index.php
+
+[ 2017-12-16T11:58:16+08:00 ] 116.226.205.211 /index.php/admin/user/index.html
+ERR: 无法加载模块:Index.php
+
+[ 2017-12-16T11:58:20+08:00 ] 116.226.205.211 /index.php/admin/role/index.html
+ERR: 无法加载模块:Index.php
+
+[ 2017-12-16T11:59:30+08:00 ] 116.226.205.211 /index.php/admin/cate/index.html
+ERR: 无法加载模块:Index.php
+
+[ 2017-12-16T11:59:30+08:00 ] 116.226.205.211 /index.php/admin/cate/index.html
+ERR: 无法加载模块:Index.php
+
+[ 2017-12-16T11:59:46+08:00 ] 116.226.205.211 /index.php/admin/cate/index.html
+ERR: 无法加载模块:Index.php
+
+[ 2017-12-16T12:34:55+08:00 ] 116.226.205.211 /index.php/admin/user/index.html
+ERR: 无法加载模块:Index.php
+
+[ 2017-12-16T12:42:21+08:00 ] 116.226.205.211 /index.php/admin/user/index.html
+ERR: 无法加载模块:Index.php
+
+[ 2017-12-16T12:42:33+08:00 ] 116.226.205.211 /index.php/admin/user/index.html
+ERR: 无法加载模块:Index.php
+
+[ 2017-12-16T12:43:17+08:00 ] 116.226.205.211 /index.php/admin/product/index.html
+ERR: 无法加载模块:Index.php
+
+[ 2017-12-16T13:28:00+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.8280379524569748
+ERR: 非法操作:verify.html?0.8280379524569748
+
+[ 2017-12-16T13:28:02+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.2285328881640749
+ERR: 非法操作:verify.html?0.2285328881640749
+
+[ 2017-12-16T13:28:03+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.03107056360645588
+ERR: 非法操作:verify.html?0.03107056360645588
+
+[ 2017-12-16T13:28:03+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.05449685701910889
+ERR: 非法操作:verify.html?0.05449685701910889
+
+[ 2017-12-16T13:28:03+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.4461633542639347
+ERR: 非法操作:verify.html?0.4461633542639347
+
+[ 2017-12-16T13:28:03+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.16458524485685877
+ERR: 非法操作:verify.html?0.16458524485685877
+
+[ 2017-12-16T13:28:04+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.6907029104285936
+ERR: 非法操作:verify.html?0.6907029104285936
+
+[ 2017-12-16T13:28:04+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.8461216143765304
+ERR: 非法操作:verify.html?0.8461216143765304
+
+[ 2017-12-16T13:28:04+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.4310356106454529
+ERR: 非法操作:verify.html?0.4310356106454529
+
+[ 2017-12-16T13:28:04+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.721982106183211
+ERR: 非法操作:verify.html?0.721982106183211
+
+[ 2017-12-16T13:28:05+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.09695758571943447
+ERR: 非法操作:verify.html?0.09695758571943447
+
+[ 2017-12-16T13:28:05+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.9883112435369208
+ERR: 非法操作:verify.html?0.9883112435369208
+
+[ 2017-12-16T13:28:05+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.9544165062656926
+ERR: 非法操作:verify.html?0.9544165062656926
+
+[ 2017-12-16T13:28:05+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.9625937972888672
+ERR: 非法操作:verify.html?0.9625937972888672
+
+[ 2017-12-16T13:28:09+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.8908315445485113
+ERR: 非法操作:verify.html?0.8908315445485113
+
+[ 2017-12-16T13:28:10+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.2567970475388517
+ERR: 非法操作:verify.html?0.2567970475388517
+
+[ 2017-12-16T13:28:19+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.3140548636942786
+ERR: 非法操作:verify.html?0.3140548636942786
+
+[ 2017-12-16T13:28:20+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.27930994091342587
+ERR: 非法操作:verify.html?0.27930994091342587
+
+[ 2017-12-16T13:28:23+08:00 ] 112.65.165.78 /index.php?s=/admin/login/verify.html?0.9252378742882601
+ERR: 非法操作:verify.html?0.9252378742882601
+
+[ 2017-12-16T13:32:20+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.15770511852023628
+ERR: 非法操作:verify.html?0.15770511852023628
+
+[ 2017-12-16T13:32:22+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.7766416413789057
+ERR: 非法操作:verify.html?0.7766416413789057
+
+[ 2017-12-16T13:32:22+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.1047925357351367
+ERR: 非法操作:verify.html?0.1047925357351367
+
+[ 2017-12-16T13:32:22+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.4612038858973506
+ERR: 非法操作:verify.html?0.4612038858973506
+
+[ 2017-12-16T13:32:22+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.07394042122355615
+ERR: 非法操作:verify.html?0.07394042122355615
+
+[ 2017-12-16T13:32:24+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.44765454260740367
+ERR: 非法操作:verify.html?0.44765454260740367
+
+[ 2017-12-16T13:32:25+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.40603906024013803
+ERR: 非法操作:verify.html?0.40603906024013803
+
+[ 2017-12-16T13:32:25+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.624267735320001
+ERR: 非法操作:verify.html?0.624267735320001
+
+[ 2017-12-16T13:32:52+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.3681750394769736
+ERR: 非法操作:verify.html?0.3681750394769736
+
+[ 2017-12-16T13:37:21+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.7716194733052872
+ERR: 非法操作:verify.html?0.7716194733052872
+
+[ 2017-12-16T13:37:27+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.11823887897414553
+ERR: 非法操作:verify.html?0.11823887897414553
+
+[ 2017-12-16T13:37:45+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?0.5522766282241753
+ERR: 非法操作:verify.html?0.5522766282241753
+
+[ 2017-12-16T13:38:03+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html?1
+ERR: 非法操作:verify.html?1
+
+[ 2017-12-16T13:38:12+08:00 ] 116.226.205.211 /index.php?s=/admin/login/verify.html/1
+ERR: 非法操作:verify.html
+
+[ 2017-12-16T13:38:34+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.07732136475346651
+ERR: 非法操作:verify?0.07732136475346651
+
+[ 2017-12-16T13:38:35+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.07233613594863297
+ERR: 非法操作:verify?0.07233613594863297
+
+[ 2017-12-16T13:38:38+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.7081541270829133
+ERR: 非法操作:verify?0.7081541270829133
+
+[ 2017-12-16T13:38:38+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.41825620936556573
+ERR: 非法操作:verify?0.41825620936556573
+
+[ 2017-12-16T13:38:38+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.074381278400669
+ERR: 非法操作:verify?0.074381278400669
+
+[ 2017-12-16T13:38:38+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.3989159768970585
+ERR: 非法操作:verify?0.3989159768970585
+
+[ 2017-12-16T13:38:46+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.7763430421747171
+ERR: 非法操作:verify?0.7763430421747171
+
+[ 2017-12-16T13:38:46+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.3792167885291686
+ERR: 非法操作:verify?0.3792167885291686
+
+[ 2017-12-16T13:38:46+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.07784956920704489
+ERR: 非法操作:verify?0.07784956920704489
+
+[ 2017-12-16T13:38:46+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.33908620110816856
+ERR: 非法操作:verify?0.33908620110816856
+
+[ 2017-12-16T13:38:46+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.9275153484476049
+ERR: 非法操作:verify?0.9275153484476049
+
+[ 2017-12-16T13:38:47+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.7127344467483658
+ERR: 非法操作:verify?0.7127344467483658
+
+[ 2017-12-16T13:38:47+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.30262336536315293
+ERR: 非法操作:verify?0.30262336536315293
+
+[ 2017-12-16T13:39:30+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.9147609611964571
+ERR: 非法操作:verify?0.9147609611964571
+
+[ 2017-12-16T13:39:31+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.10887689218292906
+ERR: 非法操作:verify?0.10887689218292906
+
+[ 2017-12-16T13:39:31+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.19470190863720283
+ERR: 非法操作:verify?0.19470190863720283
+
+[ 2017-12-16T13:39:37+08:00 ] 116.226.205.211 /index.php?g=admin&m=login&a=verify?0.7902340939919918
+ERR: 非法操作:verify?0.7902340939919918
+
+[ 2017-12-16T13:58:01+08:00 ] 116.226.205.211 /index.php?g=admin&m=conf&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000476s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000074s ]
+
+[ 2017-12-16T14:05:12+08:00 ] 116.226.205.211 /index.php?g=admin&m=conf&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000484s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000076s ]
+
+[ 2017-12-16T14:08:11+08:00 ] 116.226.205.211 /index.php?g=admin&m=conf&a=index
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+SQL: SHOW COLUMNS FROM `tp_conf` [ RunTime:0.000481s ]
+SQL: SELECT * FROM `tp_conf`  [ RunTime:0.000083s ]
+
+[ 2017-12-16T15:31:53+08:00 ] 116.226.205.211 /index.php?g=admin&m=product&a=index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `tp_product` WHERE ( `is_del` = 0 ) AND ( `cate_id` IN ('7','6','1') ) ORDER BY yuan_price desc, LIMIT 0,15  
+
+[ 2017-12-16T15:35:01+08:00 ] 116.226.205.211 /index.php?g=admin&m=product&a=index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'xian_price asc LIMIT 0,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `tp_product` WHERE ( `is_del` = 0 ) AND ( `cate_id` IN ('7','6','1') ) ORDER BY ,xian_price asc LIMIT 0,15  
+
+[ 2017-12-16T15:57:13+08:00 ] 116.226.205.211 /index.php?g=admin&m=order&a=index
+ERR: 无法加载模块:Order
+

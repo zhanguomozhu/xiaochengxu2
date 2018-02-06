@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'cnname', 2 => 'enname', 3 => 'type', 4 => 'value', 5 => 'values', 6 => 'sort', '_autoinc' => true, '_pk' => 'id', '_type' => array ( 'id' => 'int(10) unsigned', 'cnname' => 'varchar(50)', 'enname' => 'varchar(50)', 'type' => 'tinyint(1)', 'value' => 'varchar(255)', 'values' => 'varchar(255)', 'sort' => 'int(11)', ), );?>
